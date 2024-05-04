@@ -25,4 +25,4 @@ This project is a memory game built for Raspberry Pi Pico. It utilizes I2C LCD d
 ## Authors:
 * **[Luan Trieu](https://github.com/ltrieu22)** 
 * **[Arttu Lappalainen](https://github.com/ArttuKL)**
-* **Paavo Nikkari**
+* **[Paavo Nikkari](https://github.com/paavonikkari)**
