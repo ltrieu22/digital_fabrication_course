@@ -1,5 +1,5 @@
 # Memory game
-This project is a memory game built for Raspberry Pi Pico. It utilizes I2C LCD display to provide and interactive experience.
+This project is a memory game built for Raspberry Pi Pico. It utilizes I2C LCD display to provide an interactive experience.
 
 ### Repository for Principles of Digital Fabrication course work.
 
@@ -12,8 +12,9 @@ This project is a memory game built for Raspberry Pi Pico. It utilizes I2C LCD d
 * Other buttons: Replicate the sequence shown.
 
 ## Built with:
-* [MicroPython](https://micropython.org/)
-* [Thonny](https://thonny.org/)
+* [Arduino Environment](https://www.arduino.cc/)
+* [LiquidCrystal_I2C Library](https://github.com/johnrickman/LiquidCrystal_I2C)
+* [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Components
 * Raspberry Pi Pico
@@ -21,6 +22,7 @@ This project is a memory game built for Raspberry Pi Pico. It utilizes I2C LCD d
 * 4 Touch-sensitive buttons
 * a buzzer
 * Breadboard, jumper wires
+* I2C LCD Screen
 
 ## Authors:
 * **[Luan Trieu](https://github.com/ltrieu22)** 
